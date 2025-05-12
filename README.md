@@ -35,17 +35,23 @@ This project is done on **Windows OS**. One can also use **Kali Linux** to build
 
    For the password, you need to use an app password. This can be generated in your Google account.
 
-  Google Account-> Security-> 2 factor Authentication -> app password -> generate.
+  *Google Account-> Security-> 2 factor Authentication -> app password -> generate.*
 
 ## Step 3: Create a New Email Template
 - Click on Email Template and name the template.
 - Paste the HTML of the email template. You can use any email template available on GitHub.
 - Here we are using a fake Instagram Login page HTML.
+  ![go1](https://github.com/user-attachments/assets/c253c88c-53a0-447f-b267-2eb989268097)
+
 
 ## Step 4: Create a Landing Page
 - Click on Landing page and name the template.
 - Paste the HTML of the landing page (any template available on GitHub).
 - Select both Captured Submitted data and passwords.
+
+
+  ![go9](https://github.com/user-attachments/assets/ea49f0ac-7cab-44ea-8b4a-1bd619a26203)
+
 
 ## Step 5: Launch Phishing Attack
 - Click on New Campaign and name the campaign.
@@ -61,6 +67,13 @@ Now that the campaign is launched, you can start analysing the simulated attack.
 - Identify which users fell for the phishing attack and analyze the captured credentials. 
 
 Expected Output: A detailed report on the effectiveness of the phishing campaign, highlighting potential security weaknesses.
+![go2](https://github.com/user-attachments/assets/efece53b-019e-4869-9312-7a3a3649bd17)
+
+![go3](https://github.com/user-attachments/assets/33b4a27e-6faa-4448-a930-8bcfc260a23c)
+
+![go4](https://github.com/user-attachments/assets/79f036a6-fde4-4755-96b2-ab9ea6971d82)
+
+
 
 ## Defending against the attack
 - Educating the users and employees not to click on any suspicious links or attachments.
