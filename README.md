@@ -47,6 +47,29 @@ This project is done on **Windows OS**. One can also use **Kali Linux** to build
 - Paste the HTML of the landing page (any template available on GitHub).
 - Select both Captured Submitted data and passwords.
 
+## Step 5: Launch Phishing Attack
+- Click on New Campaign and name the campaign.
+- Select Email template and Landing page that you created.
+- Select URL from the **ngrok** session that we spawned up, which is the public-facing IP.
+- Select the launch date and group and click on launch.
+
+Now that the campaign is launched, you can start analysing the simulated attack.
+
+## Step 6: Analysing the attack
+
+- Review the data collected from the phishing campaign.
+- Identify which users fell for the phishing attack and analyze the captured credentials. 
+
+Expected Output: A detailed report on the effectiveness of the phishing campaign, highlighting potential security weaknesses.
+
+## Defending against the attack
+- Educating the users and employees not to click on any suspicious links or attachments.
+- To immediately report such emails to the concerned team.
+- Enabling filtering to block phishing emails.
+- Multi-factor authentication system.
+- Updating and securing the systems.
+- Develop a phishing awareness training program for employees and track the progress.
+
 
   
 
